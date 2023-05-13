@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">My waifu</string>
+    <string name="home">Home</string>
+    <string name="explore">Profil</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="movie_title">Movie Title</string>
+    <string name="movie_description">Movie Description</string>
+
+    <string name="miku">Miku</string>
+    <string name="keqing">Keqing</string>
+    <string name="kurumi">Kurumi Tokisaki</string>
+    <string name="asuna">asuna</string>
+    <string name="kaoricicak">Kaori</string>
+    <string name="megumin">megumin</string>
+    <string name="mitsuha">mitsuha</string>
+    <string name="rika">rika</string>
+    <string name="nero">nero</string>
+    <string name="tsukasa">tsukasa</string>
+
+
+
+    <string name="Waifuku" />
+    <string name="todo">TODO</string>
+
+</resources>
